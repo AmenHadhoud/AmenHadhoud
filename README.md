@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Amen Hadhoud </h1>
-<h3 align="center">Backend developer.</h3>
-
+   <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Amen+%F0%9F%91%8B;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+    </div>
 <br>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=AmenHadhoud&label=Profile%20views&color=0e75b6&style=flat"
