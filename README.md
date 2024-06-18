@@ -39,8 +39,14 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-[PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/128px-PHP-logo.svg.png)
-
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> 
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/sass.png"/> 
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
 <br>
 
 <h3>Statistical Data :-</h3>
