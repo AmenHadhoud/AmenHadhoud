@@ -1,21 +1,28 @@
-# Amen Hadhoud
+<p align="center">
+  <img src="https://media.giphy.com/media/Y1j7r2J9eOC0/giphy.gif" alt="animated" />
+</p>
 
-👋 Hello there! I'm Amen Hadhoud, your friendly developer.
-
-I specialize in:
-- 🌐 Web Development
-- 📱 Mobile App Development
-- 🤖 AI and Machine Learning
-
-Let's connect! Here's how you can reach me:
-
-📧 Email: amen@example.com  
-🐦 Twitter: [@AmenHadhoud](https://twitter.com/AmenHadhoud)  
-💼 LinkedIn: [Amen Hadhoud](https://www.linkedin.com/in/amen-hadhoud/)  
+# Welcome to Amen Hadhoud's Profile! 👋
 
 ---
 
-### My Skills
+### Hi there, I'm Amen Hadhoud! 🌟
+
+I'm a passionate developer with expertise in web and mobile technologies, as well as AI and machine learning. Here's a bit about what I love to do:
+
+- 🌐 Building engaging web applications.
+- 📱 Creating innovative mobile apps.
+- 🤖 Exploring the fascinating world of AI.
+
+Let's connect and collaborate! Feel free to reach out:
+
+- 📧 Email: amen@example.com
+- 🐦 Twitter: [@AmenHadhoud](https://twitter.com/AmenHadhoud)
+- 💼 LinkedIn: [Amen Hadhoud](https://www.linkedin.com/in/amen-hadhoud/)
+
+---
+
+### Technologies I work with:
 
 - **Languages**: JavaScript, Python, Swift
 - **Frameworks**: React, Django, SwiftUI
@@ -25,5 +32,8 @@ Let's connect! Here's how you can reach me:
 
 ### Currently Working On:
 
-🚀 Creating awesome projects to make the world a better place.
+🚀 Developing exciting projects to make a difference!
 
+---
+
+Feel free to explore my repositories and let's build something amazing together!
